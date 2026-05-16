@@ -293,8 +293,8 @@ CHECK(cudaDeviceSynchronize());
 ```
 
 ## OUTPUT:
+<img width="1082" height="179" alt="image" src="https://github.com/user-attachments/assets/2e30f9e4-e28f-4af7-9fad-becc43c52f96" />
 
-<img width="905" height="185" alt="image" src="https://github.com/user-attachments/assets/bf09e2a0-318b-42ec-8eee-0519e39b4e31" />
 
 
 ## RESULT:
